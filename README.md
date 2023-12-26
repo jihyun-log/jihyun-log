@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [KOSA Final Project](https://github.com/kosa-final-HLKP)
+- 🔭 I’m currently working on [Driver Monitoring System](https://github.com/jihyun-log/AI-DMS-project)
 
 - 🌱 I’m currently learning **JavaScript, Spring-Boot**
 
-- 👯 I’m looking to collaborate on [Momento](https://github.com/jihyun-log/momento)
+- 👯 I’m looking to collaborate on [BebeFace](https://github.com/kosa-final-HLKP)
 
 - 🤝 I’m looking for help with [Spring-Security](https://github.com/jihyun-log/Spring-Security)
 
