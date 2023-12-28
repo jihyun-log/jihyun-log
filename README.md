@@ -1,3 +1,4 @@
+<!--
 <h1 align="center">Hi 👋, I'm JiHyun</h1>
 <h3 align="center">A passionate Data Analyst from Korea</h3>
 
@@ -6,10 +7,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jihyun-log" alt="jihyun-log" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+-->
 
-- 🔭 I’m currently working on [Driver Monitoring System](https://github.com/jihyun-log/AI-DMS-project)
+- Hi, I'm JiHyun. [@s27_feb](https://www.instagram.com/s27_feb/)
 
-- 🌱 I’m currently learning **JavaScript, Spring-Boot**
+- 🔭 I’m currently working on [DMS-Driver Monitoring System](https://github.com/jihyun-log/AI-DMS-project)
+
+- 🌱 I’m currently learning **Computer Vision, Machine Learning, Deep Learning, Vision**
 
 - 👯 I’m looking to collaborate on [BebeFace](https://github.com/kosa-final-HLKP)
 
@@ -22,8 +26,9 @@
 - 💬 Ask me about **Python, R**
 
 - 📫 How to reach me **o.ov0227@gmail.com**
-
+<!--
 - 📄 Know about my experiences [https://www.notion.so/PORTFOLIO-9e18cd8e09e84b519ab6f89e688e16fd](https://www.notion.so/PORTFOLIO-9e18cd8e09e84b519ab6f89e688e16fd)
+-->
 
 - ⚡ Fun fact **I used to work as an announcer and reporter**
 
