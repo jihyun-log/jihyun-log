@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 -->
 
-- Hi, I'm JiHyun. [@s27_feb](https://www.instagram.com/s27_feb/)
+- Hi 👋, I'm JiHyun.
 
 - 🔭 I’m currently working on [DMS-Driver Monitoring System](https://github.com/jihyun-log/AI-DMS-project)
 - 🌱 I’m currently learning **Computer Vision, Machine Learning, Deep Learning, Vision**
