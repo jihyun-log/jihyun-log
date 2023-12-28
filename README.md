@@ -12,24 +12,16 @@
 - Hi, I'm JiHyun. [@s27_feb](https://www.instagram.com/s27_feb/)
 
 - 🔭 I’m currently working on [DMS-Driver Monitoring System](https://github.com/jihyun-log/AI-DMS-project)
-
 - 🌱 I’m currently learning **Computer Vision, Machine Learning, Deep Learning, Vision**
-
 - 👯 I’m looking to collaborate on [BebeFace](https://github.com/kosa-final-HLKP)
-
 - 🤝 I’m looking for help with [Spring-Security](https://github.com/jihyun-log/Spring-Security)
-
 - 👨‍💻 All of my projects are available at [https://github.com/jihyun-log](https://github.com/jihyun-log)
-
 - 📝 I regularly write articles on [https://blog.naver.com/s27_feb](https://blog.naver.com/s27_feb)
-
 - 💬 Ask me about **Python, R**
-
 - 📫 How to reach me **o.ov0227@gmail.com**
 <!--
 - 📄 Know about my experiences [https://www.notion.so/PORTFOLIO-9e18cd8e09e84b519ab6f89e688e16fd](https://www.notion.so/PORTFOLIO-9e18cd8e09e84b519ab6f89e688e16fd)
 -->
-
 - ⚡ Fun fact **I used to work as an announcer and reporter**
 
 <h3 align="left">Connect with me:</h3>
